@@ -72,7 +72,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1020" height="4">
 
-<!--
+
 ##  My Stats <img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width="50" height="50"/>
 
 <div id="streak_lang" align="center">
@@ -85,7 +85,7 @@
 
 </br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1020" height="4">
--->
+
 ## Misc <img src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif" width="50" height="50" />
 <div id="misc">
 
