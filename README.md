@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
-  <a href="https://discordapp.com/users/Nathy_Ribeiro#6322">
+  <a href="https://discordapp.com/users/nathyribeiro">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
