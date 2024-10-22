@@ -3,7 +3,7 @@
 </div><!--header-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1755F7&center=true&vCenter=true&lines=Hey!;Currently+studying+Web+Development;Final-Year" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1755F7&center=true&vCenter=true&lines=Hey!;Studying+Web+Development;Final-Year"/>
 </p>
 
 <div id="dev_gif" align="center">
