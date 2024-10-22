@@ -3,7 +3,7 @@
 </div><!--header-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1755F7&center=true&vCenter=true&lines=Hey!;Currently+learning+HTML5+and+CSS3;1+month+and+counting" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1755F7&center=true&vCenter=true&lines=Hey!;Currently+studying+Web+Development;Final-Year" />
 </p>
 
 <div id="dev_gif" align="center">
@@ -20,15 +20,15 @@
 </br>
 
 <p align="center">
-  Hey there! I've just started learning Front-End and in October I'll start a course for Full Web Developing that lasts 2 years. I accept all kinds of help, I'm happy to receive any kind of positive criticism :)
+  Hey there! I'm currently on my second and last year of my Web Development Course
 </p>
 
 </br>
 </br>
 
-- :telescope: I’m currently studying on my own.
-- :seedling: I'm learning HTML5, CSS3, some responsive design and soon will start on Javascript.
-- :zap: In my free time, I like to read, play games and sometimes draw.
+- :telescope: Web Development.
+- :seedling: I'm learning React, PHP and will soon start learning Bootstrap.
+- :zap: In my free time, I like to read, play games and walk my dog.
 </br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1020" height="4">
@@ -39,10 +39,6 @@
   
   <a href="mailto:nathcsr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/xNathyRibeiro">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
   <a href="https://discordapp.com/users/nathyribeiro">
@@ -67,6 +63,10 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" widht="60" height="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqldeveloper/sqldeveloper-original.svg" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="60" height="60"/>&nbsp;
 
 </br>
 
