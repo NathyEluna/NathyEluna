@@ -77,7 +77,7 @@
 
 <div id="streak_lang" align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NathyEluna&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-blond-pi.vercel.app?user=NathyEluna&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyEluna&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
